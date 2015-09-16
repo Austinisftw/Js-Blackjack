@@ -1,0 +1,2 @@
+# Js-Blackjack
+Simple blackjac
